@@ -66,3 +66,5 @@ document.addEventListener('DOMContentLoaded', function() {
     iniciarConversionDePrecio('precio-integral', parseFloat(document.getElementById('precio-integral').getAttribute('data-precio-usd')));
     iniciarConversionDePrecio('precio-transformacion', parseFloat(document.getElementById('precio-transformacion').getAttribute('data-precio-usd')));
   });
+
+  //FINAL DE CODIGO
